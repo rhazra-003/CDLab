@@ -1,0 +1,2 @@
+Implement a shift reduce parser whose input is a context free grammar and the input sentence(s) and the
+output is the sequence of productions to be used to reduce to the start symbol.
